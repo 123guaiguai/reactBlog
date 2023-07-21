@@ -1,0 +1,29 @@
+{
+  "name": "react-blog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.0.1",
+    "@zeit/next-css": "^1.0.1",
+    "antd": "^5.4.6",
+    "axios": "^1.4.0",
+    "highlight.js": "^11.8.0",
+    "lodash": "^4.17.21",
+    "markdown-navbar": "^1.4.3",
+    "marked": "0.7.0",
+    "next": "13.3.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-markdown": "^8.0.7"
+  },
+  "devDependencies": {
+    "less-loader": "5",
+    "webpack": "^4.46.0"
+  }
+}
